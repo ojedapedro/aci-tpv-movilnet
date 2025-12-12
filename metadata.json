@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ACI Movilnet POS",
+  "description": "Professional Point of Sale system for ACI Movilnet with inventory lookup, multi-currency support, and credit plan management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
